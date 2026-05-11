@@ -1,0 +1,5 @@
+chroot_native/
+chroot_rootfs_*/
+cache_*/
+log.txt
+apk.static
